@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=putrishafana&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrishafana&layout=compact" width="48%" />
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - Master modern fullstack architecture
@@ -63,7 +54,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email    : ptryshaf@gmail.com  
-- 🔗 LinkedIn : https://linkedin.com/in/putri-shafa-nadila  
+- 🔗 LinkedIn : https://www.linkedin.com/in/putri-shafa-nadila-1a9871268/
 - 🌐 GitHub   : https://github.com/putrishafana
 
 ---
